@@ -46,8 +46,8 @@ This task entailed the analysis of student feedback survey data to determine if 
 ---
 
 ## Notebook and Dataset:
-  -[View Notebook on Jupyter/Google Colab](): https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.twb
-  -[Download Dataset]()
+  - [View Notebook on Jupyter/Google Colab](https://github.com/OsazeleMomoh/FUTURE_DS_03/blob/main/Student_Feedback_Survey_Analysis.ipynb)
+  - [Download Dataset]()
   
   Link 1: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-1/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
