@@ -38,7 +38,6 @@ This task entailed the analysis of student feedback survey data to determine if 
 
 ## Skills Gained
 - Data Preprocessing & Cleaning
-- Natural Language Processing (NLP)
 - Exploratory Data Analysis
 - Extracting Insights from Feedback
 - Visualization
