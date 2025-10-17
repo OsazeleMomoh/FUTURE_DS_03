@@ -7,9 +7,9 @@ This task entailed the analysis of student feedback survey data to determine if 
 ---
 
 ## Task Overview
--**Task:** Analysis of student feedback survey data to uncover insights and profer recommendations based on survey data.
--**Dataset:** Student Feedback Survey data from Kaggle (CSV).
--**Deliverable:** Polished dataset, exploratory analysis, and recommendations.
+- **Task:** Analysis of student feedback survey data to uncover insights and profer recommendations based on survey data.
+- **Dataset:** Student Feedback Survey data from Kaggle (CSV).
+- **Deliverable:** Polished dataset, exploratory analysis, and recommendations.
 
 ---
 
