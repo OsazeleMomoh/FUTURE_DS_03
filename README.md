@@ -46,40 +46,23 @@ This task entailed the analysis of student feedback survey data to determine if 
 ---
 
 ## Notebook and Dataset:
-  - [View Notebook on Jupyter/Google Colab](https://github.com/OsazeleMomoh/FUTURE_DS_03/blob/main/Student_Feedback_Survey_Analysis.ipynb)
-  - [Download Dataset]()
-  
-  Link 1: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-1/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-  
-  Link 2: https://public.tableau.com/views/SocialMediaCampaignPerformanceTracker-2/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
- 
-- Screenshots:
-  
-  1. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Future%20Interns.png
-  
-  2. https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/Task2%20-%20Continuation.png
-
-- Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_02/blob/main/data_cleaned.csv
-
-## Highlights from Analysis
-- Females (F) generate the most impressions (114.8M) and the most clicks (23.8k).
-- Impressions are highest on Wednesdays. 
-- The campaign seems to appeal to age groups 30-34 and 45-49.
-- CTR varies per day, showing varying levels of engagement. CTR then declines as time goes by, showing that the campaign was losing its appeal.
-- Only 2 ads from the top 10 ads by allocated total ad spend, pulled in enquiries and active users.
-- Impressions with most age groups was on a high trend until 21st August, which then saw a decline. The exception was age groups 35-39, which saw a steady decline until 21st August and then tanked further.
+  - [View Notebook](https://github.com/OsazeleMomoh/FUTURE_DS_03/blob/main/Student_Feedback_Survey_Analysis.ipynb)
+  - [View Analysis Report](https://github.com/OsazeleMomoh/FUTURE_DS_03/blob/main/Student_Feedback_Survey_Analysis.pdf)
+  - [Download Dataset](https://github.com/OsazeleMomoh/FUTURE_DS_03/blob/main/student_feedback.csv)
 
 ---
 
-## Recommendations
-- Prioritise advertising on high traffic days like Wednesdays. Saturdays and Thursdays are good as well.
-- Adjust ad targeting strategies with gender and age distribution in mind.
-- Reallocate ad spend budget on Ads that pull the most enquiries and active users.
-- Keep an eye on the CTR trend to continuously optimize content and ad placement.
+  ## Tools & Libraries
+  - **Environment:** Google Colab
+  - **Libraries:** 'pandas', 'numpy', 'matplotlib', 'seaborn'
 
+ ---
 
-
----
-
-This dashboard offers a detailed, data-centric visual of Meta ad campaign metrics: performance, engagement and spend, which equips the marketing team with insights needed to drive strategic optimizations and enhance the conversion rate of subsequent ad campaigns.
+ ## Insights
+ - The teacher has a good knowledge of the subject matter but the course could be structured in a better manner.
+ - The teacher's presentation techniques, when explaining course concepts to students, could be better.
+ - The teacher could also take time to explain course concepts to students to facilitate their understanding.
+ - The teacher could incorporate harder assignments to students as a way to assess their learning curve and reinforce understanding.
+ - The teacher takes time to understand and clarify doubts students have about course concepts but there's always room for improvement.
+ - Student support by the teacher is generally fair so there is room for improvement.
 
