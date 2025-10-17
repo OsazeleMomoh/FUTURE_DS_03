@@ -15,7 +15,7 @@ This task entailed the analysis of student feedback survey data to determine if 
 
 ## Workflow
 1. **Installation of Libraries** - Intalled libraries needed for analysis.
-2. **Loading the data from file** - Imported the data (in .csv format).
+2. **Loading data from file** - Imported the data (in .csv format).
 3. **Cleaning and Transforming the data:**
    - Normalize column names
    - Rename column names to common schema
@@ -54,7 +54,7 @@ This task entailed the analysis of student feedback survey data to determine if 
 
   ## Tools & Libraries
   - **Environment:** Google Colab
-  - **Libraries:** 'pandas', 'numpy', 'matplotlib', 'seaborn'
+  - **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
 
  ---
 
