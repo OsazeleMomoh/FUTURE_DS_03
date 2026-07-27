@@ -14,7 +14,7 @@ This task entailed the analysis of student feedback survey data to determine if 
 ---
 
 ## Workflow
-1. **Installation of Libraries** - Intalled libraries needed for analysis.
+1. **Installation of Libraries** - Installed libraries needed for analysis.
 2. **Loading data from file** - Imported the data (in .csv format).
 3. **Cleaning and Transforming the data:**
    - Normalize column names
