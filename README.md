@@ -1,5 +1,4 @@
-# FUTURE_DS_03
-## Task 3: Student Feedback Survey Analysis (Python)
+# Task 3: Student Feedback Survey Analysis (Python)
 
 This repository will house my work for *Task 3* of my internship with Future Interns.
 This task entailed the analysis of student feedback survey data to determine if a teacher taught a course in an effective manner. Explorative Data Analysis (EDA) would be done to determine the teacher's performance by: *knowledge level*, *use of presentation*, *explanation of concepts*, *assignment difficulty*, *doubt resolution*, *course structure*, *student support*, and *course recommendation*. Recommendations would then be given to client based on insights uncovered. 
